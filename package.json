@@ -1,0 +1,11 @@
+{
+  "name": "kandathings",
+  "version": "1.0.0",
+  "description": "A db API for TeloKanda Weather group",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "blackhat64",
+  "license": "ISC"
+}
